@@ -15,7 +15,7 @@ This repository contains an Ansible playbook to set up Portainer on a Proxmox VM
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/portainer_automation.git
+    git clone https://github.com/18visions/portainer_automation.git
     cd portainer_automation
     ```
 
